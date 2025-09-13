@@ -27,22 +27,22 @@ Open to new challenges and interesting projects.
 
 <div>
 
-  <a href="https://packagist.org/packages/your_username/">
+  <a href="https://packagist.org/packages/your_username/" title="packagist">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=packagist&logoColor=7aa2f7&style=plastic" alt="Packagist">
   </a>
-  <a href="https://gitlab.com/your_username">
+  <a href="https://gitlab.com/your_username" title="gitlab">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=gitlab&logoColor=7aa2f7&style=plastic" alt="GitLab">
   </a>
-  <a href="https://hub.docker.com/u/your_username">
+  <a href="https://hub.docker.com/u/your_username" title="docker">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=docker&logoColor=7aa2f7&style=plastic" alt="Docker Hub">
   </a>
-  <a href="https://www.codingame.com/profile/your_id">
+  <a href="https://www.codingame.com/profile/your_id" title="codingame">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=codingame&logoColor=7aa2f7&style=plastic" alt="CodinGame">
   </a>
-  <a href="https://www.codewars.com/users/your_username">
+  <a href="https://www.codewars.com/users/your_username" title="codewars">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=codewars&logoColor=7aa2f7&style=plastic" alt="Codewars">
   </a>
-  <a href="https://leetcode.com/u/your_username/">
+  <a href="https://leetcode.com/u/your_username/" title="leetcode">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=leetcode&logoColor=7aa2f7&style=plastic" alt="LeetCode">
   </a>
 </div>
@@ -89,17 +89,17 @@ Open to new challenges and interesting projects.
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Beyond+the+Code)
 
 <div>
-  <a href="https://store.steampowered.com/">
+  <a href="https://store.steampowered.com/" title="steam">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=steam&logoColor=7aa2f7&style=plastic" alt="Steam">
   </a>
-  <a href="your_discord_link">
+  <a href="your_discord_link" title="discord">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=discord&logoColor=7aa2f7&style=plastic" alt="Discord">
   </a>
-  <a href="https://osu.ppy.sh/users/your_profile">
+  <a href="https://osu.ppy.sh/users/your_profile" title="osu!">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=osu&logoColor=7aa2f7&style=plastic" alt="OSU!">
   </a>
-  <a href="https://shikimori.one/your_profile">
-    <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=myanimelist&logoColor=7aa2f7&style=plastic" alt="Shikimori">
+  <a href="https://shikimori.one/your_profile" title="shikimori">
+    <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=shikimori&logoColor=7aa2f7&style=plastic" alt="Shikimori">
   </a>
 </div>
 
@@ -122,16 +122,16 @@ Trading: As a hobby
 Feel free to reach out for collaboration or just a friendly chat!
 
 <div>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/your_username" title="telegram">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=telegram&logoColor=7aa2f7&style=plastic" alt="Telegram">
   </a>
-  <a href="https://wa.me/your_number">
+  <a href="https://wa.me/your_number" title="whatsapp">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=whatsapp&logoColor=7aa2f7&style=plastic" alt="WhatsApp">
   </a>
-  <a href="https://vk.com/your_profile">
+  <a href="https://vk.com/your_profile" title="vk">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=vk&logoColor=7aa2f7&style=plastic" alt="VK">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.email@example.com" title="mail">
     <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=gmail&logoColor=7aa2f7&style=plastic" alt="Email">
   </a>
 </div>
