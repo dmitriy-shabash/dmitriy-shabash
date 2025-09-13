@@ -17,7 +17,7 @@ I thrive in taking on projects end-to-end: from prototyping new ideas to **tamin
 I've developed a Telegram bot for real-time trade monitoring and led the modernization of data parsers onto a modern Symfony framework.
 
 **My focus is on:**
-- **Solving complex problems** and optimizing performance (sped up a critical data pipeline by 2.5x+).
+- **Solving complex problems** and optimizing performance (sped up a critical data pipeline by 2x+).
 - **End-to-end development**, from backend architecture to bot integrations.
 - **Working effectively with legacy systems**, refactoring and modernizing them.
 
@@ -103,9 +103,10 @@ Open to new challenges and interesting projects.
   </a>
 </div>
 
-<img width="300" height="140" src="https://cdna.artstation.com/p/assets/images/images/050/592/060/original/michael-tenebrae-tokyo-rain.gif?1655217933" align="right">
+<img width="300" height="147" src="https://cdna.artstation.com/p/assets/images/images/050/592/060/original/michael-tenebrae-tokyo-rain.gif?1655217933" align="right">
 
 <div align="left">
+  
 Currently reading: The Book Thief
 
 Gaming: OSU! | DotA 2
@@ -113,6 +114,7 @@ Gaming: OSU! | DotA 2
 Anime
 
 Trading: As a hobby
+
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Connect+with+Me)
