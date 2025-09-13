@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&height=40&lines=Hey+there!+I'm+Dmitriy)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Hey+there!+I'm+Dmitriy)
   
   <div align="right">
   
@@ -8,7 +8,7 @@
   
   </div>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&height=20&lines=About+me)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=32&lines=About+me)
   
   <div align="left">
   
@@ -49,7 +49,7 @@
   <br>
   <br>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&height=20&lines=Technologies+%26+Tools)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=32&lines=Technologies+%26+Tools)
   
   <table align="center">
     <tr>
@@ -90,7 +90,7 @@
 
   <br>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&height=20&lines=Beyond+the+Code)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=32&lines=Beyond+the+Code)
   
   <div>
     <a href="https://store.steampowered.com/" title="steam">
@@ -115,7 +115,7 @@
   <br>
   <br>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&height=20&lines=Connect+with+Me)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1500&color=7aa2f7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=32&lines=Connect+with+Me)
   
   Feel free to reach out for collaboration or just a friendly chat!
   
