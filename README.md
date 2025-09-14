@@ -120,7 +120,7 @@
     <a href="https://t.me/ewbtofuhyaaoasuiryb" title="telegram">
       <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=telegram&logoColor=7aa2f7&style=plastic" alt="Telegram">
     </a>
-    <a href="https://wa.me/89539183395" title="whatsapp">
+    <a href="https://wa.me/+79539183395" title="whatsapp">
       <img width="40" height="40" src="https://img.shields.io/badge/-000000?logo=whatsapp&logoColor=7aa2f7&style=plastic" alt="WhatsApp">
     </a>
     <a href="mailto:noovenkiy@yandex.com" title="mail">
